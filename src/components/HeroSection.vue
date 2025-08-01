@@ -17,7 +17,7 @@
         
         <div class="bg-white/70 backdrop-blur-sm rounded-3xl p-8 shadow-lg border border-pink-200/50">
           <p class="text-lg sm:text-xl text-gray-700 font-medium leading-relaxed">
-            Aku denger dengar hari ini itu Girlfriend Day ya? akuuu mauu ngucapin Happy Girlfriend Day sayangg. Aku bikin ini sebagai pemberian ku buat kamuu sayang.
+            Aku denger dengar hari ini itu Girlfriend Day ya? Jadi disini akuu mau ngucapin...
           </p>
         </div>
         

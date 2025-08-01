@@ -12,14 +12,15 @@
       <!-- Final Message -->
       <div class="space-y-4 mb-12">
         <h3 class="text-2xl sm:text-3xl font-cursive font-semibold text-gradient">
-          Forever & Always
+          I'll Love You Forever & Always
         </h3>
         <div class="bg-white/80 backdrop-blur-sm rounded-2xl p-6 shadow-lg border border-pink-200/50">
           <p class="text-gray-700 text-sm leading-relaxed mb-4">
-            Seperti bunga ini yang mekar dengan indah, cinta kita akan terus tumbuh dan berkembang seiring waktu.
+            This Flower For Youu, hehehehe. <br>
+            I LOVEEE YOUUU.
           </p>
           <p class="text-pink-600 font-semibold text-sm">
-            Happy Girlfriend Day, Shofia Jasmine! 💕
+            Happy Girlfriend Day, Sayaangggg
           </p>
         </div>
       </div>

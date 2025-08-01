@@ -28,14 +28,15 @@
       <div class="bg-gradient-to-br from-white/80 to-pink-50/60 backdrop-blur-sm rounded-3xl p-8 shadow-xl border border-pink-200/30 card-hover">
         <div class="space-y-4">
           <p class="text-lg text-gray-700 font-medium leading-relaxed">
-            Shofia Jasmine(Justmine),
+            Shofia Jasmine(Justmine).
           </p>
           <p class="text-base text-gray-600 leading-relaxed">
-            Makasih yaa sayang, atas semua momen senang dan sedih nya, Terimakasih sudah mau menemani proses ku, Mendengarkan ceritaku, Mendengarkan keluh kesahku, I really feel gratefull to have you, sama sama terus sama aku ya?
+            Iya aku mau ngucapin Happy Girlfriend Day ke kamu. Coba tebak, Siapa wanita yang canti banget, lucu banget, imut banget, DAN yang paling penting ini wanita ku? <br>
+            YA CUMA KAMU LAH, YOU ONE AND ONLY.
           </p>
           <div class="pt-4">
             <span class="inline-block bg-gradient-to-r from-pink-500 to-rose-500 text-white px-6 py-2 rounded-full text-sm font-semibold">
-              With all my love 💕
+              I LOVE YOU SO MUCH
             </span>
           </div>
         </div>
@@ -43,7 +44,6 @@
       
       <!-- Date Badge -->
       <div class="inline-flex items-center bg-pink-100 text-pink-800 px-4 py-2 rounded-full text-sm font-semibold">
-        <span class="mr-2">📅</span>
         {{ currentDate }}
       </div>
     </div>

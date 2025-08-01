@@ -22,8 +22,17 @@
           Sebelum lanjut scroll...
         </h3>
         <p class="text-gray-600 text-sm leading-relaxed mb-4">
-          Play musik ini dulu ya sayang, biar semakin romantis 💕
+          Play musik ini dulu ya sayang
         </p>
+        
+        <!-- Song Info -->
+        <div class="bg-gradient-to-r from-pink-50 to-rose-50 rounded-lg p-3 mb-4 border border-pink-100">
+          <div class="text-center">
+            <h4 class="font-semibold text-gray-800 text-sm mb-1">🎵 Now Playing</h4>
+            <p class="text-pink-600 font-medium text-sm">Godspeed</p>
+            <p class="text-gray-500 text-xs">by Frank Ocean</p>
+          </div>
+        </div>
         
         <!-- Music Player Button -->
         <button
@@ -52,7 +61,7 @@
           <div class="w-2 h-4 bg-green-500 rounded animate-pulse delay-300"></div>
           <div class="w-2 h-7 bg-green-600 rounded animate-pulse delay-450"></div>
         </div>
-        <p class="text-sm font-medium">Perfect! Sekarang scroll ke bawah ya 🥰</p>
+        <p class="text-sm font-medium">Perfect! Sekarang scroll ke bawah ya</p>
       </div>
       
       <!-- Audio Element -->
@@ -61,7 +70,7 @@
         loop
         preload="metadata"
       >
-        <source src="/src/assets/lagu.mp3" type="audio/mpeg">
+        <source src="/src/assets/lagu1.mp3" type="audio/mpeg">
       </audio>
     </div>
   </section>

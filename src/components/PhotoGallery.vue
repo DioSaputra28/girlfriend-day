@@ -11,10 +11,10 @@
       <!-- Section Title -->
       <div class="text-center mb-12">
         <h3 class="text-3xl font-cursive font-semibold text-gradient mb-2">
-          Memories with You
+          About You
         </h3>
         <p class="text-gray-600 text-sm">
-          Setiap momen bersamamu adalah kenangan terindah 💕
+          The best girl I’ve ever met, and the most gorgeous girl in the world.
         </p>
       </div>
 
@@ -26,20 +26,17 @@
           <div class="flex-shrink-0">
             <div
               class="w-20 h-20 rounded-2xl bg-gradient-to-br from-pink-200 to-rose-300 shadow-lg flex items-center justify-center overflow-hidden">
-              <img
-                src="https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg?auto=compress&cs=tinysrgb&w=200&h=200&fit=crop"
-                alt="Shofia" class="w-full h-full object-cover" />
+              <img src="/src/assets/fotokecil.jpg" alt="Shofia" class="w-full h-full object-cover" />
             </div>
           </div>
           <div
             class="flex-1 bg-white/70 backdrop-blur-sm rounded-2xl p-4 shadow-lg border border-pink-200/50 card-hover">
             <div class="flex items-start justify-between mb-2">
-              <h4 class="font-semibold text-gray-800 text-sm">Senyuman Terindah</h4>
+              <h4 class="font-semibold text-gray-800 text-sm">Strong Girl</h4>
               <span class="text-pink-500 text-xs">💖</span>
             </div>
             <p class="text-gray-600 text-xs leading-relaxed">
-              Setiap kali kamu tersenyum, dunia jadi terasa lebih cerah dan indah. Senyumanmu adalah keajaiban kecil
-              yang selalu bikin aku bahagia.
+              Ini aku serius, kamu ituu sabarr sekali sama apa yang pernah terjadi ke kamu, dan sampai saat ini kamu masih bisa survive, ituu kerenn bangett sayangg, SERIUSSSS. Jangan lupa untuk selalu cerita sama aku yaaa :)
             </p>
           </div>
         </div>
@@ -55,20 +52,17 @@
           <div class="flex-shrink-0">
             <div
               class="w-20 h-20 rounded-2xl bg-gradient-to-br from-rose-200 to-pink-300 shadow-lg flex items-center justify-center overflow-hidden">
-              <img
-                src="https://images.pexels.com/photos/1181674/pexels-photo-1181674.jpeg?auto=compress&cs=tinysrgb&w=200&h=200&fit=crop"
-                alt="Shofia" class="w-full h-full object-cover" />
+              <img src="/src/assets/fotolari.jpg" alt="Shofia" class="w-full h-full object-cover" />
             </div>
           </div>
           <div
             class="flex-1 bg-white/70 backdrop-blur-sm rounded-2xl p-4 shadow-lg border border-pink-200/50 card-hover text-right">
             <div class="flex items-start justify-between mb-2 flex-row-reverse">
-              <h4 class="font-semibold text-gray-800 text-sm">Mata Berbinar</h4>
+              <h4 class="font-semibold text-gray-800 text-sm">Gorgeous & Adorable</h4>
               <span class="text-rose-500 text-xs">✨</span>
             </div>
             <p class="text-gray-600 text-xs leading-relaxed">
-              Matamu seperti bintang yang bersinar terang di malam hari. Setiap kali aku menatap matamu, aku melihat
-              masa depan yang indah bersama.
+              KENAPA SIH KAMU TU UDAH MAH CANTIK BANGET, KOK LUCU JUGAAAAA HAAAA, AKUU KAN JADIII NAKSIR BERATTT. REMEMBER!! YOU'RE MINE, JUST MINE OKAY???
             </p>
           </div>
         </div>
@@ -84,20 +78,17 @@
           <div class="flex-shrink-0">
             <div
               class="w-20 h-20 rounded-2xl bg-gradient-to-br from-pink-200 to-rose-300 shadow-lg flex items-center justify-center overflow-hidden">
-              <img
-                src="https://images.pexels.com/photos/1181690/pexels-photo-1181690.jpeg?auto=compress&cs=tinysrgb&w=200&h=200&fit=crop"
-                alt="Shofia" class="w-full h-full object-cover" />
+              <img src="/src/assets/FotoDress.jpg" alt="Shofia" class="w-full h-full object-cover" />
             </div>
           </div>
           <div
             class="flex-1 bg-white/70 backdrop-blur-sm rounded-2xl p-4 shadow-lg border border-pink-200/50 card-hover">
             <div class="flex items-start justify-between mb-2">
-              <h4 class="font-semibold text-gray-800 text-sm">Tawa yang Merdu</h4>
+              <h4 class="font-semibold text-gray-800 text-sm">My Bini</h4>
               <span class="text-pink-500 text-xs">🎵</span>
             </div>
             <p class="text-gray-600 text-xs leading-relaxed">
-              Suara tawamu adalah musik terindah yang pernah aku dengar. Setiap kali kamu tertawa, hatiku ikut bergetar
-              bahagia.
+              INI ADALAH FOTO MY BINI DI MASA YANG AKAN DATANG. YAKAN YAKAN YAKAN? SAMAAA AKUU TERUSSS YAAA SAMPAAII MASA ITU DATANGG.
             </p>
           </div>
         </div>
@@ -113,20 +104,17 @@
           <div class="flex-shrink-0">
             <div
               class="w-20 h-20 rounded-2xl bg-gradient-to-br from-rose-200 to-pink-300 shadow-lg flex items-center justify-center overflow-hidden">
-              <img
-                src="https://images.pexels.com/photos/1181695/pexels-photo-1181695.jpeg?auto=compress&cs=tinysrgb&w=200&h=200&fit=crop"
-                alt="Shofia" class="w-full h-full object-cover" />
+              <img src="/src/assets/fotobaremh.jpg" alt="Shofia" class="w-full h-full object-cover" />
             </div>
           </div>
           <div
             class="flex-1 bg-white/70 backdrop-blur-sm rounded-2xl p-4 shadow-lg border border-pink-200/50 card-hover text-right">
             <div class="flex items-start justify-between mb-2 flex-row-reverse">
-              <h4 class="font-semibold text-gray-800 text-sm">Hati yang Baik</h4>
+              <h4 class="font-semibold text-gray-800 text-sm">US</h4>
               <span class="text-rose-500 text-xs">💝</span>
             </div>
             <p class="text-gray-600 text-xs leading-relaxed">
-              Kamu memiliki hati yang paling baik dan lembut. Kebaikanmu selalu menginspirasi aku untuk menjadi pribadi
-              yang lebih baik setiap harinya.
+              Aku bersyukur, Aku beruntung, dan Aku bangga punya kamu, dengan ada nya kamu aku jadi punya 'rumah', aku merasa di sayang, di cintai, aku berharap kamu tidak akan pergi dari ku, i love you so much, pleasee don't chose another boy okay? :((
             </p>
           </div>
         </div>
